@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Unique Comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-06 00:58+0300\n"
+"PO-Revision-Date: 2010-01-06 00:58+0300\n"
+"Last-Translator: Sergey Biryukov <npocmop@gmail.com>\n"
+"Language-Team: Sergey Biryukov <npocmop@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11) ? 0 : ((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: unique-comments.php:48
+msgid "Check&nbsp;Uniqueness"
+msgstr "Проверить&nbsp;уникальность"
+
+#: unique-comments.php:55
+msgid "Check Uniqueness: "
+msgstr "Проверить уникальность: "
+
+#: unique-comments.php:63
+msgid "Unique Comments Options"
+msgstr "Настройки уникальных комментариев"
+
+#: unique-comments.php:67
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: unique-comments.php:72
+msgid "Treat non-unique comments as: "
+msgstr "Статус неуникальных комментариев: "
+
+#: unique-comments.php:77
+msgid "Moderated"
+msgstr "Ожидает модерирования"
+
+#: unique-comments.php:78
+msgid "Spam"
+msgstr "Спам"
+
+#: unique-comments.php:88
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: unique-comments.php:97
+msgid "Unique Comments"
+msgstr "Уникальные комментарии"
+
